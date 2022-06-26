@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>curtains.png</file>
+        <file>profile-picture.png</file>
+    </qresource>
+</RCC>
